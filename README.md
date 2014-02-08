@@ -7,7 +7,7 @@ A Dragonpay client.
 Usage
 -----
 
-```
+```python
 from flask import redirect
 from dragon import DragonPay
 
